@@ -8,7 +8,7 @@ namespace ConsoleApp_EmilVincic
     {
         int Main()
         {
-            return 4;
+            return 4000;
         }
         
         void errorMethod {
