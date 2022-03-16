@@ -10,5 +10,9 @@ namespace ConsoleApp_EmilVincic
         {
             return 4;
         }
+        
+        void errorMethod {
+            
+        }
     }
 }
